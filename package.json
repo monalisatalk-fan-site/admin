@@ -1,0 +1,9 @@
+{
+  "name": "@monalisatalk-fan-site/admin",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/monalisatalk-fan-site/admin.git",
+  "author": "lollipop-onl <lollipop@simochee.net>",
+  "license": "MIT",
+  "private": true
+}
